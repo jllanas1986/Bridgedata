@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "titulo";
+    src: url(Gloock-Regular.ttf);
+}
+form{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    justify-content: center;
+}
+#msgSucces{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    justify-content: center;
+   width: 400px;
+}
+
+#msgError{
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    margin-top: 40px;
+   width: 400px;
+}
+#cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    margin-left: 40px;
+    margin-top: 40px;
+    background-color: #0d6efd;
+   
+}
+.list-group-item{
+    background-color: rgb(235, 235, 235);
+}
+.registroUsuarios{
+    margin-top: 50px;
+    text-align: center;
+}
+hr{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+#nameStrong{
+    font-weight: bold;
+    color: #0d6efd;
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: #0d6dfdf6 !important;
+}
+.nav-link{
+    color: white !important; 
+}
+.navbar-toggler {
+    padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;
+    color: var(--bs-navbar-color);
+    background-color: white;
+    border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
+    margin-right: 10%;
+}
+.navbar-brand{
+    font-family: "titulo";
+    font-size: 30px;
+    margin-left: 10%;
+}
+.navbar-nav{
+    margin-left: 60%;
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
