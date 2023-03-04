@@ -58,7 +58,7 @@ _"Es el potente encabezado de navegación sensible de Bootstrap. Incluye soporte
   </div>
 </nav>
 ```
-
+* Acceda a la [**investigación completa de Bootstrap**](/bootstrap.md)
 
 ##  **Bridgedata** 🔧
 ---
