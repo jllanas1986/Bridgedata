@@ -60,7 +60,7 @@ _"Es el potente encabezado de navegación sensible de Bootstrap. Incluye soporte
 ```
 * Acceda a la [**investigación completa de Bootstrap**](/bootstrap.md)
 
-##  **Bridgedata** 🔧
+##  **Bridgedata** 🔧 
 ---
 Bridgedata es una página web implementada con funcionalidades de Bootstrap que nos permite la creació n de usuarios y almacenamiento de datos en local Storage.
 
